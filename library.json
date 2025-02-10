@@ -1,0 +1,24 @@
+{
+  "name": "sensor_MS5803",
+  "version": "0.0.1",
+  "description": "Driver library for the MS5803 pressure sensor",
+  "keywords": "pressure, sensor",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/ocean-forge/sensor_MS5803"
+  },
+  "authors":
+  [
+    {
+      "name": "Raphael Mabit",
+      "email": "raphael.mabit@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "ocean-forge/sensor_sensor": "~0.1.0"
+  },
+  "frameworks": "*",
+  "platforms": "*"
+}
